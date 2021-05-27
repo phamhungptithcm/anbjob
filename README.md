@@ -1,4 +1,8 @@
 
+This is a simple project I created to apply to NAB company with a modest time that I personally arrange to do this project is 15 hours, it is only a small part that the developer has to do in the actual tasks in the future. Anyway it also shows how:
+ * How do I manage and break large tasks into subtasks....
+ * I organize the code (Running flow, how to handle calls of functions...) is clear or not so that it can be easily managed as well as for the maintenance person to follow easily.
+
 1. ERD
 ![image](https://user-images.githubusercontent.com/32831453/119690582-038d2e80-be74-11eb-9912-e4171f8bcceb.png)
 
